@@ -1,6 +1,9 @@
 m, p, n = int(input()), int(input()), int(input())
+
 x = ((p / 100) + 1)
+
 print("1", m)
+
 for i in range(n - 1):
     m = m * x
     print(i + 2, m)
