@@ -16,5 +16,5 @@ m = m % 2 + m - 1
 for i in range(m, n - 1, -2):
     print(i)
 
-# Two integers m and n (m > nm>n) are given.
+# Two integers m and n (m > nm > n) are given.
 # The program displays all odd numbers from m to n inclusive in descending order.
