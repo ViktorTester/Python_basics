@@ -18,3 +18,6 @@ n = [int(n[i]) for i in range(len(n))]
 
 cube = [(n[j] ** 3) for j in range(len(n))]
 print(*cube)
+
+# The input is a text string containing integers.
+# The program displays the cubes of the specified numbers also on one line.
