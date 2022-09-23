@@ -9,7 +9,7 @@ x2 = 0
 D = pow(b, 2) - (4 * a * c)
 
 if D < 0:
-    print("Нет корней")
+    print("There are no roots")
 elif D == 0:
     x = (-b / (2 * a))
 elif D > 0:
