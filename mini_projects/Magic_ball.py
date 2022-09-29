@@ -38,3 +38,4 @@ give_me_the_question()
 
 # A magic ball (ball of fate) is a comic way to predict the future.
 # The program should ask the user to ask a question in order to randomly answer it.
+#
