@@ -1,4 +1,4 @@
-a= int(input()), int(input())
+a, b = int(input()), int(input())
 dividers_count = 0
 max_divider = 0
 for i in range(a, b + 1):
